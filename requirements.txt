@@ -6,7 +6,7 @@
 #
 
 -i https://pypi.org/simple
-aiohttp==3.8.1; python_version >= '3.6'
+aiohttp==3.9.2; python_version >= '3.6'
 aiosignal==1.2.0; python_version >= '3.6'
 anyio==3.5.0; python_full_version >= '3.6.2'
 arrow==1.2.2; python_version >= '3.6'
